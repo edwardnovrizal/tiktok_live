@@ -1,0 +1,23 @@
+{
+  "name": "tiktok_live",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "fs": "^0.0.1-security",
+    "google-tts-api": "^2.0.2",
+    "node-play": "^1.0.0",
+    "play-sound": "^1.1.6",
+    "random": "^5.1.1",
+    "random-number": "^0.0.9",
+    "sound-play": "^1.1.0",
+    "tiktok-live-connector": "^1.2.0",
+    "uuid": "^10.0.0"
+  }
+}
